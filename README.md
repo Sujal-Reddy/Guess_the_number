@@ -21,6 +21,8 @@ A clean, interactive, and responsive browser game where players try to guess a s
 ## 📸 Screenshot
 
 <img width="1913" height="859" alt="Screenshot 2025-07-30 234232" src="https://github.com/user-attachments/assets/8c34ef98-0c0f-4791-8c86-32ea1f40a60c" />
+<img width="1908" height="859" alt="GTN_screenshot2" src="https://github.com/user-attachments/assets/6c9ecb41-dc08-4aea-8bbc-1b2f97be42a5" />
+
 
 
 
